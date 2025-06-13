@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  bt-heart-monitor
 A web client for Bluetooth heart monitoring devices, built with the Web Bluetooth API.
 
@@ -44,3 +45,6 @@ The defaults are okay, and you can check the `Remember for this packet` box
 
 
 13. Click `Ok` and you are good to go. You can always turn OFF the emulator by turning OFF the packet and disabling the GATT server from step 3
+=======
+# Dico-care
+>>>>>>> 4c85345b4d38014df4675b5ebcc6c1404a4ba0e8
